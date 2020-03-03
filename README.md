@@ -1,7 +1,8 @@
 # Web-Scraping
 
-Don't forget to add folder config folder and Credentials.txt file with below format
-
-Credentials.txt
-\nUser-Name of Classmaker.com
-\nPassword of Classmaker.com
+Don't forget to add folder <b>config folder</b> and <b>Credentials.txt</b> file with below format
+<br />
+<br />
+<b>Credentials.txt</b><br />
+\<User-Name of Classmaker.com\><br />
+\<Password of Classmaker.com\>
